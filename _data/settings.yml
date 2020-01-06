@@ -1,5 +1,5 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
+title: "Guaranteed Offer"
 description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
@@ -10,21 +10,21 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: Jane Doe
   title:
   license_number:
   about_markdown: |
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  market: Omaha
+  brand: Brand
+  brokerage: Brokerage
+  address: 123 Sesame Street Omaha, NE 68134
+  phone: 123-456-7890
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: hi@myemail.com
+  url: https://getvyral.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -84,7 +84,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#094264'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
