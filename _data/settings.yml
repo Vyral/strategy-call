@@ -23,6 +23,8 @@ images:
   hero_logo_path: /img/logo.png
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
+  logo_width: 300px
+  mobile_logo_width: 150px
 
 site_colors:
   brand_color: '#094264'
