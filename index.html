@@ -45,7 +45,7 @@ layout: default
   <h3 class="join-us">Request a Cash Offer on Your Home Today</h3>
   <h5 class="join-us-subtitle">Enter your contact information</h5>
 
-  <form method="post" class="home-value cta-forms" action="/thankyou" id="strategy-call-form">
+  <form method="post" class="home-value cta-forms" action="/thankyou" id="guaranteed-offer-form">
   					<fieldset>
               <label for="firstname">First Name*</label> <input type="text" required="" name="firstname" />
   						<label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" />
@@ -68,7 +68,7 @@ layout: default
                       6 months+
                   </option>
               </select>
-  						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onStrategyCallSubmit' data-badge="bottomleft">Submit</button></fieldset>
+  						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onGuaranteedOfferSubmit' data-badge="bottomleft">Submit</button></fieldset>
   					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Message from your Guaranteed Offer Landing Page" name="_subject" /> <input type="text" name="_gotcha" /></div>
   				</form>
   </div>
